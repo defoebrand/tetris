@@ -1,0 +1,47 @@
+html {
+
+	}
+
+body {
+
+	}
+
+.grid{
+	width: 300px;
+	height: 600px;
+	background: yellow;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+.grid div{
+	height: 30px;
+	width: 30px;
+}
+
+
+.mini-grid{
+	width: 80px;
+	height: 80px;
+	display: flex;
+	flex-wrap: wrap;
+	background: none;
+	margin: 25px;
+}
+
+.mini-grid div{
+	height: 20px;
+	width: 20px;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	margin: 25px;
+	align-items: center;
+}
+/* if calling element use nothing
+   if calling class use . before name
+   if calling id use # before name
+   
