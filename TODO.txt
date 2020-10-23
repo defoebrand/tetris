@@ -1,0 +1,4 @@
+Fix Gameplay
+ - unfocus start button after clicking it
+ - prevent tetromino from poking through to other side
+ -
